@@ -14,6 +14,9 @@
         <maven.compiler.target>1.8</maven.compiler.target>
 
         <spock-framework-core.version>1.1-groovy-2.4-rc-2</spock-framework-core.version>
+        <groovy-all.version>2.4.13</groovy-all.version>
+        <spock-framework-reports.version>1.5.0</spock-framework-reports.version>
+        <slf4j.version>1.7.25</slf4j.version>
     </properties>
 
     <dependencies>
@@ -22,6 +25,30 @@
             <artifactId>spock-core</artifactId>
             <version>${spock-framework-core.version}</version>
             <scope>test</scope>
+        </dependency>
+        <dependency> <!-- use a specific Groovy version rather than the one specified by spock-core -->
+            <groupId>org.codehaus.groovy</groupId>
+            <artifactId>groovy-all</artifactId>
+            <version>${groovy-all.version}</version>
+        </dependency>
+        <!-- Reports for using Spock -->
+        <dependency>
+            <groupId>com.athaydes</groupId>
+            <artifactId>spock-reports</artifactId>
+            <version>${spock-framework-reports.version}</version>
+            <scope>test</scope>
+            <!-- this avoids affecting your version of Groovy/Spock -->
+            <exclusions>
+                <exclusion>
+                    <groupId>*</groupId>
+                    <artifactId>*</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>${slf4j.version}</version>
         </dependency>
     </dependencies>
 
@@ -49,7 +76,9 @@
                 <artifactId>maven-surefire-plugin</artifactId>
                 <version>2.20.1</version>
                 <configuration>
-                    <useFile>false</useFile>
+                    <systemPropertyVariables>
+                        <com.athaydes.spockframework.report.outputDir>target/reports</com.athaydes.spockframework.report.outputDir>
+                    </systemPropertyVariables>
                     <includes>
                         <include>**/*Spec.java</include>
                     </includes>

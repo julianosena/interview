@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07c434ea-4880-4e50-9d9c-6b029f77b8c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetDistanceFromRouteUseCaseSpec.groovy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/julianosena/coursera/algorithm/part/two/domain/Digraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/julianosena/coursera/algorithm/part/two/domain/Digraph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetDistanceFromTownsConnectionAndTheirDistancesUseCaseSpec.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetDistanceFromTownsConnectionAndTheirDistancesUseCaseSpec.groovy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetFirstTownFromTownsConnectionAndTheirDistancesUseCaseSpec.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetFirstTownFromTownsConnectionAndTheirDistancesUseCaseSpec.groovy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetLastTownFromTownsConnectionAndTheirDistancesUseCaseSpec.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetLastTownFromTownsConnectionAndTheirDistancesUseCaseSpec.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetAllTownsFromInputTownsConnectionsAndTheirDistancesUseCaseSpec.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/groovy/com/julianosena/coursera/algorithm/part/two/usecase/GetAllTownsFromInputTownsConnectionsAndTheirDistancesUseCaseSpec.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetDigraphUseCaseSpec.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/groovy/com/julianosena/coursera/algorithm/part/two/usecase/GetDigraphUseCaseSpec.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetDistanceFromRouteUseCaseSpec.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/groovy/com/julianosena/coursera/algorithm/part/two/usecase/GetDistanceFromRouteUseCaseSpec.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetDistanceFromTownsConnectionAndTheirDistancesUseCaseSpec.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/groovy/com/julianosena/coursera/algorithm/part/two/usecase/GetDistanceFromTownsConnectionAndTheirDistancesUseCaseSpec.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetFirstTownFromTownsConnectionAndTheirDistancesUseCaseSpec.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/groovy/com/julianosena/coursera/algorithm/part/two/usecase/GetFirstTownFromTownsConnectionAndTheirDistancesUseCaseSpec.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetLastTownFromTownsConnectionAndTheirDistancesUseCaseSpec.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/groovy/com/julianosena/coursera/algorithm/part/two/usecase/GetLastTownFromTownsConnectionAndTheirDistancesUseCaseSpec.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetTripsAmountStartsInTownAndEndingAnotherTownExactlyStopsUseCaseSpec.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/groovy/com/julianosena/coursera/algorithm/part/two/usecase/GetTripsAmountStartsInTownAndEndingAnotherTownExactlyStopsUseCaseSpec.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetTripsAmountStartsInTownAndEndingAnotherTownMaximumStopsUseCaseSpec.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/groovy/com/julianosena/coursera/algorithm/part/two/usecase/GetTripsAmountStartsInTownAndEndingAnotherTownMaximumStopsUseCaseSpec.groovy" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,58 +23,43 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/trains_challenge$All_in_algorithm_part_two.ic" NAME="All in algorithm-part-two Coverage Results" MODIFIED="1533605288138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetTripsAmountStartsInTownAndEndingAnotherTownMaximumStopsUseCaseSpec.groovy">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state>
-                    <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
-                    <folding>
-                      <element signature="e#61#126#0" expanded="true" />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1486732072">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="groovy" value="17" />
           <entry key="java" value="28" />
+          <entry key="pom" value="1" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="17" />
           <entry key="JAVA" value="28" />
+          <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="groovy" value="1298" />
           <entry key="java" value="2857" />
+          <entry key="xml" value="89" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="1298" />
           <entry key="JAVA" value="2857" />
+          <entry key="XML" value="89" />
         </counts>
       </usages-collector>
     </session>
@@ -77,13 +67,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/julianosena/coursera/algorithm/part/two/usecase/GetShortestRouteFromTownTripUseCase.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="270">
+              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -101,6 +88,7 @@
     <findStrings>
       <find>GetTripsAmountStartsInTownAndEndingAnotherTownMaximumStopsUseCase.</find>
       <find>GetTripsAmountStartsInTownAndEndingAnotherTownExactlyStopsUseCase.</find>
+      <find>maven.</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -122,7 +110,15 @@
         <option value="$PROJECT_DIR$/src/main/java/com/julianosena/coursera/algorithm/part/two/usecase/GetShortestRouteFromTownTrip.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetShortestRouteFromTownTripUseCaseSpec.groovy" />
         <option value="$PROJECT_DIR$/src/main/java/com/julianosena/coursera/algorithm/part/two/usecase/GetShortestRouteFromTownTripUseCase.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -147,8 +143,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,14 +207,14 @@
               <item name="trains-challenge" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="groovy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="trains-challenge" type="b2602c69:ProjectViewProjectNode" />
               <item name="trains-challenge" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="groovy" type="462c0819:PsiDirectoryNode" />
               <item name="usecase" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -251,7 +247,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GetShortestRouteFromTownTripUseCaseSpec">
+  <component name="RunManager" selected="JUnit.All in algorithm-part-two">
     <configuration name="All in algorithm-part-two" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm-part-two" />
       <option name="PACKAGE_NAME" value="" />
@@ -329,11 +325,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in algorithm-part-two" />
         <item itemvalue="JUnit.GetShortestRouteFromTownTripUseCaseSpec" />
         <item itemvalue="JUnit.GetTripsAmountStartsInTownAndEndingAnotherTownExactlyStopsUseCaseSpec.Should return 1 for number of trips starting at C and ending at C with maximum 3 stops" />
         <item itemvalue="JUnit.GetTripsAmountStartsInTownAndEndingAnotherTownExactlyStopsUseCaseSpec.Should return 2 for the number of trips starting at C and ending at C with maximum 3 stops" />
         <item itemvalue="JUnit.GetTripsAmountStartsInTownAndEndingAnotherTownMaximumStopsUseCaseSpec" />
-        <item itemvalue="JUnit.All in algorithm-part-two" />
       </list>
     </recent_temporary>
   </component>
@@ -351,12 +347,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GetTripsAmountStartsInTownAndEndingAnotherTownExactlyStopsUseCaseSpec_Should_return_2_for_the_number_of_trips_starting_at_C_and_ending_at_C_with_maximum_3_stops - 2018.08.06 at 22h 51m 51s.xml">
-      <configuration name="GetTripsAmountStartsInTownAndEndingAnotherTownExactlyStopsUseCaseSpec.Should return 2 for the number of trips starting at C and ending at C with maximum 3 stops" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GetTripsAmountStartsInTownAndEndingAnotherTownExactlyStopsUseCaseSpec_Should_return_2_for_the_number_of_trips_starting_at_C_and_ending_at_C_with_maximum_3_stops - 2018.08.06 at 22h 54m 52s.xml">
-      <configuration name="GetTripsAmountStartsInTownAndEndingAnotherTownExactlyStopsUseCaseSpec.Should return 2 for the number of trips starting at C and ending at C with maximum 3 stops" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="GetTripsAmountStartsInTownAndEndingAnotherTownExactlyStopsUseCaseSpec_Should_return_2_for_the_number_of_trips_starting_at_C_and_ending_at_C_with_maximum_3_stops - 2018.08.06 at 22h 55m 33s.xml">
       <configuration name="GetTripsAmountStartsInTownAndEndingAnotherTownExactlyStopsUseCaseSpec.Should return 2 for the number of trips starting at C and ending at C with maximum 3 stops" configurationId="JUnit" />
     </history-entry>
@@ -381,33 +371,39 @@
     <history-entry file="GetShortestRouteFromTownTripUseCaseSpec - 2018.08.07 at 08h 24m 42s.xml">
       <configuration name="GetShortestRouteFromTownTripUseCaseSpec" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_algorithm-part-two - 2018.08.07 at 09h 48m 49s.xml">
+      <configuration name="All in algorithm-part-two" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_algorithm-part-two - 2018.08.07 at 09h 49m 14s.xml">
+      <configuration name="All in algorithm-part-two" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1057" width="1920" height="981" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Designer" />
-      <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19755058" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1996805" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Learn" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32845894" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3318335" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3318335" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39932507" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Coverage" sideWeight="0.5007728" weight="0.32960597" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" sideWeight="0.4992272" weight="0.32960597" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3295838" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven Projects" order="3" sideWeight="0.4992272" weight="0.32960597" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Coverage" order="5" sideWeight="0.5007728" weight="0.32960597" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -440,49 +436,43 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetDistanceFromTownsConnectionAndTheirDistancesUseCaseSpec.groovy">
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/com/julianosena/coursera/algorithm/part/two/usecase/GetDistanceFromTownsConnectionAndTheirDistancesUseCaseSpec.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetFirstTownFromTownsConnectionAndTheirDistancesUseCaseSpec.groovy">
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/com/julianosena/coursera/algorithm/part/two/usecase/GetFirstTownFromTownsConnectionAndTheirDistancesUseCaseSpec.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetLastTownFromTownsConnectionAndTheirDistancesUseCaseSpec.groovy">
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/com/julianosena/coursera/algorithm/part/two/usecase/GetLastTownFromTownsConnectionAndTheirDistancesUseCaseSpec.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetDigraphUseCaseSpec.groovy">
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/com/julianosena/coursera/algorithm/part/two/usecase/GetDigraphUseCaseSpec.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-285">
           <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetAllTownsFromInputTownsConnectionsAndTheirDistancesUseCaseSpec.groovy">
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/com/julianosena/coursera/algorithm/part/two/usecase/GetAllTownsFromInputTownsConnectionsAndTheirDistancesUseCaseSpec.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/julianosena/coursera/algorithm/part/two/usecase/model/Starts.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetDistanceFromRouteUseCaseSpec.groovy">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/julianosena/coursera/algorithm/part/two/usecase/model/Starts.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/com/julianosena/coursera/algorithm/part/two/usecase/GetDistanceFromRouteUseCaseSpec.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
@@ -568,17 +558,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetTripsAmountStartsInTownAndEndingAnotherTownMaximumStopsUseCaseSpec.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
-          <folding>
-            <element signature="e#61#126#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetTripsAmountStartsInTownAndEndingAnotherTownExactlyStopsUseCaseSpec.groovy">
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/com/julianosena/coursera/algorithm/part/two/usecase/GetTripsAmountStartsInTownAndEndingAnotherTownExactlyStopsUseCaseSpec.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="31" column="49" selection-start-line="28" selection-end-line="34" selection-end-column="88" />
@@ -588,16 +568,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetShortestRouteFromTownTripUseCaseSpec.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="29" column="62" lean-forward="true" selection-start-line="29" selection-start-column="62" selection-end-line="29" selection-end-column="62" />
-          <folding>
-            <element signature="e#61#126#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetShortestRouteFromTownTripUseCaseSpec.groovy" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/julianosena/coursera/algorithm/part/two/usecase/GetTripsAmountStartsInTownAndEndingAnotherTownMaximumStopsUseCase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -624,11 +595,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/julianosena/coursera/algorithm/part/two/usecase/GetShortestRouteFromTownTripUseCase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="292">
+          <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/com/julianosena/coursera/algorithm/part/two/usecase/GetTripsAmountStartsInTownAndEndingAnotherTownMaximumStopsUseCaseSpec.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
+          <folding>
+            <element signature="e#61#126#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/com/athaydes/spock-reports/1.5.0/spock-reports-1.5.0.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1011" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
         </state>
       </provider>
     </entry>
