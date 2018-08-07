@@ -13,7 +13,7 @@ class GetDistanceFromTownsConnectionAndTheirDistancesUseCaseSpec extends Specifi
         when : "this usecase is called with the right input"
         getDistanceFromTownsConnectionAndTheirDistancesUseCase.execute(input)
 
-        then : "the distance from that connection should be returned"
+        then : "the distance town that connection should be returned"
         int distance = getDistanceFromTownsConnectionAndTheirDistancesUseCase.execute(input)
 
         and : "its name should be right"

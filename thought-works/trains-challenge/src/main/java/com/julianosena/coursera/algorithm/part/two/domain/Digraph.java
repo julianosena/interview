@@ -11,7 +11,7 @@ public class Digraph {
     public Digraph(final Set<Town> TOWNS) {
         this.TOWNS = new LinkedHashMap(TOWNS.size());
         for(final Town TOWN : TOWNS){
-            this.TOWNS.put(TOWN, new ArrayList<TownConnection>());
+            this.TOWNS.put(TOWN, new ArrayList<>());
         }
     }
 

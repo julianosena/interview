@@ -14,7 +14,7 @@ class GetLastTownFromTownsConnectionAndTheirDistancesUseCaseSpec extends Specifi
         when : "this usecase is called with the right input"
         getLastTownFromTownsConnectionAndTheirDistancesUseCase.execute(input)
 
-        then : "the last town from that connection should be returned"
+        then : "the last town town that connection should be returned"
         Town town = getLastTownFromTownsConnectionAndTheirDistancesUseCase.execute(input)
 
         and : "its name should be right"

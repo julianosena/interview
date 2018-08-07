@@ -14,7 +14,7 @@ class GetFirstTownFromTownsConnectionAndTheirDistancesUseCaseSpec extends Specif
         when : "this usecase is called with the right input"
         getFirstTownFromTownsConnectionAndTheirDistancesUseCase.execute(input)
 
-        then : "the first town from that connection should be returned"
+        then : "the first town town that connection should be returned"
         Town town = getFirstTownFromTownsConnectionAndTheirDistancesUseCase.execute(input)
 
         and : "its name should be right"
