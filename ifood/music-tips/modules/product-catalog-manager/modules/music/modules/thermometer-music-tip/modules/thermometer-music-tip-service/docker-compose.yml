@@ -1,0 +1,29 @@
+version: '3'
+services:
+  redis:
+    container_name: "thermometer-music-tip-cache"
+    image: redis:alpine
+    command:
+      - /etc/redis/redis.conf
+    volumes:
+      - ./cache/data:/data
+      - ./cache/redis.conf:/etc/redis/redis.conf
+    ports:
+      - '6379:6379'
+    hostname: redis
+  mongodb:
+    image: mongo:3.7
+    container_name: "thermometer-music-tip-mongodb"
+    environment:
+      - AUTH=yes
+      - MONGODB_ADMIN_USER=music_tipo_thermometer
+      - MONGODB_ADMIN_PASS=music_tipo_thermometer
+      - MONGODB_APPLICATION_DATABASE=music_tipo_thermometer
+      - MONGODB_APPLICATION_USER=music_tipo_thermometer
+      - MONGODB_APPLICATION_PASS=music_tipo_thermometer
+      - MONGODB_USER="music_tipo_thermometer"
+      - MONGODB_PASS="music_tipo_thermometer"
+    volumes:
+      - ./db/data:/data
+    ports:
+      - 27017:27017

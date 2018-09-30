@@ -1,0 +1,62 @@
+spring:
+  application:
+    name: Thermometer Music tip Service
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: music_tipo_thermometer
+      user: music_tipo_thermometer
+      password: music_tipo_thermometer
+      spring.datasource.driverClassName: com.mongodb.Mongo
+      repositories.enabled: true
+  redis:
+    host: localhost
+    port: 6379
+    cache:
+      manager:
+        expiration: 300
+    password: da5407e122ec0d9763ce5f4662054576e36c12dcd0e5504f72963b244cd2c1a7
+
+feign:
+  hystrix:
+    enabled: true
+
+hystrix:
+  command:
+    default:
+      coreSize: 20
+      maximumSize: 500
+      allowMaximumSizeToDivergeFromCoreSize: true
+      maxQueueSize: 50000
+      queueSizeRejectionThreshold: 50000
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 1000000
+
+#Spotify
+spotify:
+  security:
+    clientId: 132de7e9b58f4d17af89b2fbb5664e43
+    clientSecret: 63f968bb5209490dbb589fd1ce4b58bc
+  feign:
+    config:
+      retry:
+        maxAttempts: 3
+
+#Open Weather API
+open:
+  weather:
+    map:
+      app:
+        key: 1194c622abf48a4fb6c0553686dfcb58
+  feign:
+    config:
+      retry:
+        maxAttempts: 3
+
+# Log Level
+logging:
+  level:
+    root: INFO
