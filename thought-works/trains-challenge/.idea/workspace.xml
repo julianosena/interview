@@ -3,15 +3,36 @@
   <component name="ChangeListManager">
     <list default="true" id="07c434ea-4880-4e50-9d9c-6b029f77b8c1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetAllTownsFromInputTownsConnectionsAndTheirDistancesUseCaseSpec.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/groovy/com/julianosena/coursera/algorithm/part/two/usecase/GetAllTownsFromInputTownsConnectionsAndTheirDistancesUseCaseSpec.groovy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetDigraphUseCaseSpec.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/groovy/com/julianosena/coursera/algorithm/part/two/usecase/GetDigraphUseCaseSpec.groovy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetDistanceFromRouteUseCaseSpec.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/groovy/com/julianosena/coursera/algorithm/part/two/usecase/GetDistanceFromRouteUseCaseSpec.groovy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetDistanceFromTownsConnectionAndTheirDistancesUseCaseSpec.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/groovy/com/julianosena/coursera/algorithm/part/two/usecase/GetDistanceFromTownsConnectionAndTheirDistancesUseCaseSpec.groovy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetFirstTownFromTownsConnectionAndTheirDistancesUseCaseSpec.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/groovy/com/julianosena/coursera/algorithm/part/two/usecase/GetFirstTownFromTownsConnectionAndTheirDistancesUseCaseSpec.groovy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetLastTownFromTownsConnectionAndTheirDistancesUseCaseSpec.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/groovy/com/julianosena/coursera/algorithm/part/two/usecase/GetLastTownFromTownsConnectionAndTheirDistancesUseCaseSpec.groovy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetTripsAmountStartsInTownAndEndingAnotherTownExactlyStopsUseCaseSpec.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/groovy/com/julianosena/coursera/algorithm/part/two/usecase/GetTripsAmountStartsInTownAndEndingAnotherTownExactlyStopsUseCaseSpec.groovy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/julianosena/coursera/algorithm/part/two/usecase/GetTripsAmountStartsInTownAndEndingAnotherTownMaximumStopsUseCaseSpec.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/groovy/com/julianosena/coursera/algorithm/part/two/usecase/GetTripsAmountStartsInTownAndEndingAnotherTownMaximumStopsUseCaseSpec.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/reports/aggregated_report.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/reports/com.julianosena.coursera.algorithm.part.two.usecase.GetAllTownsFromInputTownsConnectionsAndTheirDistancesUseCaseSpec.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/reports/com.julianosena.coursera.algorithm.part.two.usecase.GetDigraphUseCaseSpec.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/reports/com.julianosena.coursera.algorithm.part.two.usecase.GetDistanceFromRouteUseCaseSpec.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/reports/com.julianosena.coursera.algorithm.part.two.usecase.GetDistanceFromTownsConnectionAndTheirDistancesUseCaseSpec.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/reports/com.julianosena.coursera.algorithm.part.two.usecase.GetFirstTownFromTownsConnectionAndTheirDistancesUseCaseSpec.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/reports/com.julianosena.coursera.algorithm.part.two.usecase.GetLastTownFromTownsConnectionAndTheirDistancesUseCaseSpec.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/reports/com.julianosena.coursera.algorithm.part.two.usecase.GetTripsAmountStartsInTownAndEndingAnotherTownExactlyStopsUseCaseSpec.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/reports/com.julianosena.coursera.algorithm.part.two.usecase.GetTripsAmountStartsInTownAndEndingAnotherTownMaximumStopsUseCaseSpec.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.julianosena.coursera.algorithm.part.two.usecase.GetAllTownsFromInputTownsConnectionsAndTheirDistancesUseCaseSpec.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.julianosena.coursera.algorithm.part.two.usecase.GetDigraphUseCaseSpec.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.julianosena.coursera.algorithm.part.two.usecase.GetDistanceFromRouteUseCaseSpec.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.julianosena.coursera.algorithm.part.two.usecase.GetDistanceFromTownsConnectionAndTheirDistancesUseCaseSpec.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.julianosena.coursera.algorithm.part.two.usecase.GetFirstTownFromTownsConnectionAndTheirDistancesUseCaseSpec.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.julianosena.coursera.algorithm.part.two.usecase.GetLastTownFromTownsConnectionAndTheirDistancesUseCaseSpec.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.julianosena.coursera.algorithm.part.two.usecase.GetTripsAmountStartsInTownAndEndingAnotherTownExactlyStopsUseCaseSpec.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.julianosena.coursera.algorithm.part.two.usecase.GetTripsAmountStartsInTownAndEndingAnotherTownMaximumStopsUseCaseSpec.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.julianosena.coursera.algorithm.part.two.usecase.GetAllTownsFromInputTownsConnectionsAndTheirDistancesUseCaseSpec.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.julianosena.coursera.algorithm.part.two.usecase.GetDigraphUseCaseSpec.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.julianosena.coursera.algorithm.part.two.usecase.GetDistanceFromRouteUseCaseSpec.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.julianosena.coursera.algorithm.part.two.usecase.GetDistanceFromTownsConnectionAndTheirDistancesUseCaseSpec.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.julianosena.coursera.algorithm.part.two.usecase.GetFirstTownFromTownsConnectionAndTheirDistancesUseCaseSpec.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.julianosena.coursera.algorithm.part.two.usecase.GetLastTownFromTownsConnectionAndTheirDistancesUseCaseSpec.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.julianosena.coursera.algorithm.part.two.usecase.GetTripsAmountStartsInTownAndEndingAnotherTownExactlyStopsUseCaseSpec.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.julianosena.coursera.algorithm.part.two.usecase.GetTripsAmountStartsInTownAndEndingAnotherTownMaximumStopsUseCaseSpec.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,10 +48,11 @@
     <session id="-1486732072">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -65,17 +87,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -133,9 +145,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="-1057" />
+    <option name="y" value="23" />
     <option name="width" value="1920" />
-    <option name="height" value="981" />
+    <option name="height" value="948" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -143,7 +155,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -221,6 +232,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -347,9 +359,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GetTripsAmountStartsInTownAndEndingAnotherTownExactlyStopsUseCaseSpec_Should_return_2_for_the_number_of_trips_starting_at_C_and_ending_at_C_with_maximum_3_stops - 2018.08.06 at 22h 55m 33s.xml">
-      <configuration name="GetTripsAmountStartsInTownAndEndingAnotherTownExactlyStopsUseCaseSpec.Should return 2 for the number of trips starting at C and ending at C with maximum 3 stops" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="GetTripsAmountStartsInTownAndEndingAnotherTownExactlyStopsUseCaseSpec_Should_return_2_for_the_number_of_trips_starting_at_C_and_ending_at_C_with_maximum_3_stops - 2018.08.06 at 23h 00m 37s.xml">
       <configuration name="GetTripsAmountStartsInTownAndEndingAnotherTownExactlyStopsUseCaseSpec.Should return 2 for the number of trips starting at C and ending at C with maximum 3 stops" configurationId="JUnit" />
     </history-entry>
@@ -377,25 +386,27 @@
     <history-entry file="All_in_algorithm-part-two - 2018.08.07 at 09h 49m 14s.xml">
       <configuration name="All in algorithm-part-two" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_algorithm-part-two - 2018.08.07 at 09h 50m 33s.xml">
+      <configuration name="All in algorithm-part-two" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1057" width="1920" height="981" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1920" height="948" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1996805" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20181043" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32845894" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3318335" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3318335" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39932507" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3295838" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32943925" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -521,9 +532,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-          <folding>
-            <element signature="e#334#335#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -538,12 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
-          <folding>
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -551,10 +553,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          <folding>
-            <element signature="e#804#805#0" expanded="true" />
-            <element signature="e#837#838#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -573,9 +571,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -597,9 +592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
           <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -607,9 +599,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
-          <folding>
-            <element signature="e#61#126#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -620,8 +609,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        <state relative-caret-position="300">
+          <caret line="50" column="44" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="44" />
         </state>
       </provider>
     </entry>
